@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.food{
+  background-image: url('/src/pizza.jpg');
+  object-fit: scale-down;
+}
